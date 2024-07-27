@@ -1,0 +1,53 @@
+placeDcid,placeName,Date:LifeExpectancy_Person,Value:LifeExpectancy_Person,Source:LifeExpectancy_Person
+country/ALB,Albania,2021,76.463,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/ARM,Armenia,2021,72.043,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/AUT,Austria,2021,81.2390243902439,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/AZE,Azerbaijan,2021,69.366,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/BEL,Belgium,2021,81.890243902439,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/BGR,Bulgaria,2021,71.5146341463415,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/BIH,Bosnia and Herzegovina,2021,75.3,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/BLR,Belarus,2021,72.3706829268293,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/CHE,Switzerland,2021,83.8512195121951,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/CYP,Cyprus,2021,81.203,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/CZE,Czech Republic,2021,77.3731707317073,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/DEU,Germany,2021,80.9009756097561,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/DNK,Denmark,2021,81.4048780487805,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/ESP,Spain,2021,83.1780487804878,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/EST,Estonia,2021,76.7414634146342,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/FIN,Finland,2021,81.9341463414634,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/FRA,France,2021,82.3243902439024,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/FRO,Faroe Islands,2021,83.4975609756098,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/GBR,United Kingdom,2021,80.7,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/GEO,Georgia,2021,71.694,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/GIB,Gibraltar,2021,79.329,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/GRC,Greece,2021,80.1829268292683,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/HRV,Croatia,2021,76.4243902439025,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/HUN,Hungary,2021,74.4658536585366,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/IMN,Isle of Man,2021,80.525,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/IRL,Ireland,2021,82.1024390243903,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/ISL,Iceland,2021,83.1170731707317,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/ITA,Italy,2021,82.7951219512195,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/KAZ,Kazakhstan,2021,70.23,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/LIE,Liechtenstein,2021,84.4024390243902,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/LTU,Lithuania,2021,74.3390243902439,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/LUX,Luxembourg,2021,82.7487804878049,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/LVA,Latvia,2021,73.2829268292683,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/MAF,Saint Martin (French part),2021,80.379,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/MDA,Moldova,2021,68.846,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/MKD,Macedonia [FYROM],2021,74.5368292682927,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/MLT,Malta,2021,82.8609756097561,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/MNE,Montenegro,2021,73.8243902439024,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/NLD,Netherlands,2021,81.4609756097561,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/NOR,Norway,2021,83.1634146341463,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/POL,Poland,2021,75.6024390243903,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/PRT,Portugal,2021,81.0731707317073,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/PYF,French Polynesia,2021,79.486,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/ROU,Romania,2021,72.9609756097561,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/RUS,Russia,2021,69.3612195121951,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/SRB,Serbia,2021,72.7307317073171,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/SVK,Slovakia,2021,74.7146341463415,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/SVN,Slovenia,2021,80.8756097560976,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/SWE,Sweden,2021,83.1560975609756,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/TCA,Turks and Caicos Islands,2021,74.587,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/TUR,Turkey,2021,76.032,https://datacatalog.worldbank.org/dataset/world-development-indicators/
+country/UKR,Ukraine,2021,69.6478048780488,https://datacatalog.worldbank.org/dataset/world-development-indicators/
